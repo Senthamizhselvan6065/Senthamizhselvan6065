@@ -8,6 +8,7 @@ MERN Stack Developer
 - 📫 How to reach me :
 <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 
+
 ### I code in
 <div align="left">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
@@ -20,6 +21,7 @@ MERN Stack Developer
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
 </div>
+
 
 ### IDE and Tools I Use
 <div align="left">
