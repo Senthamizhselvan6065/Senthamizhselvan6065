@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Senthamizh selvan
 
 MERN Stack Developer
-<img align="right" width="370" height="290" border-radius="25px" src="https://img.freepik.com/premium-vector/programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767.jpg?size=626&ext=jpg&ga=GA1.1.1123430720.1707038470&semt=ais">
+<img align="right" width="370" height="290" border-radius="25px" src="https://img.freepik.com/premium-vector/programmer-engineering-development-coding-web-development-website-design-developer-vector_199064-126.jpg?size=626&ext=jpg&ga=GA1.1.1123430720.1707038470&semt=ais">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements
