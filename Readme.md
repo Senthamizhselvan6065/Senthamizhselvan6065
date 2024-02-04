@@ -11,4 +11,4 @@ MERN Stack Developer
 
 ### I code in
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="40" height="40" src="https://img.icons8.com/officel/40/react.png" alt="react"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="30" height="30" src="https://img.icons8.com/offices/30/express-js.png" alt="express-js"/>
