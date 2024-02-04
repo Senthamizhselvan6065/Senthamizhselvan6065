@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Senthamizh selvan
 
 MERN Stack Developer
-<img align="right" width="370" height="290" border-radius="25px" src="https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?size=626&ext=jpg&ga=GA1.1.1123430720.1707038470&semt=sph">
+<img align="right" width="370" height="290" border-radius="25px" src="https://iconscout.com/lottie-animation/computer-programmers-3572895">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements
